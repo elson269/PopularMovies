@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="network_connection_error_message">Network unavailable, please check your network connection!</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_overview">Movie Overview</string>
+    <string name="movie_release_date">Movie Release Date</string>
+    <string name="movie_rating">Movie Rating</string>
+    <string name="menu_pupular_movie">Most Popular</string>
+    <string name="menu_top_rated_movie">Top Rated</string>
+    <string name="menu_my_favorite">My Favorites</string>
+    <string name="menu_share">Share</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="trailer_name">Trailer Name</string>
+    <string name="trailer_list_tag">Trailer</string>
+    <string name="movie_review">Reviews</string>
+    <string name="review_content">Review Content</string>
+    <string name="empty_review_content">Sorry, there was no review found!</string>
+    <string name="add_favorite_fail_message">Problem with adding movie to your favorite.</string>
+    <string name="add_favorite_success_message">Movie Saved to your Favorite.</string>
+</resources>
